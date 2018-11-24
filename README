@@ -1,0 +1,18 @@
+====================== FUSEKI Server ========================
+*** SETUP ***
+1. Download latest apache-jena-fuseki-*.* from https://jena.apache.org/download/#jena-fuseki.
+2. Unpack the downloaded file.
+3. Go to the directory where you unpacked the file (fuseki directory). 
+4. In command line, run 'chmod +x fuseki-server'.
+5. In command line, run './fuseki-server --update --mem /ds to start the server'.
+
+*** UPLOAD ONTOLOGY ***
+1. In a browser, go to http://localhost:3030/
+2. Click the dataset button from header.
+3. Click upload files button.
+3. Select the ontology (.owl file).
+
+
+===================== Ontology =============================
+*** DOWNLOAD ***
+1. You can download it from http://www.ontobee.org/ontology/DOID or run 'wget https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.owl' in command line 
