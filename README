@@ -4,7 +4,7 @@
 2. Unpack the downloaded file.
 3. Go to the directory where you unpacked the file (fuseki directory). 
 4. In command line, run 'chmod +x fuseki-server'.
-5. In command line, run './fuseki-server --update --mem /ds to start the server'.
+5. In command line, run './fuseki-server --update --mem /ds' to start the server.
 
 *** UPLOAD ONTOLOGY ***
 1. In a browser, go to http://localhost:3030/
@@ -16,3 +16,10 @@
 ===================== Ontology =============================
 *** DOWNLOAD ***
 1. You can download it from http://www.ontobee.org/ontology/DOID or run 'wget https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.owl' in command line 
+
+
+===================== Google Translate API =================
+***DOWNNLOAD AND INSTALL ***
+1. Download Google Translate 'git clone https://github.com/BoseCorp/py-googletrans.git'.
+2. Go to Google directory 'cd ./py-googletrans'.
+3. In command line, run 'python setup.py install'.
