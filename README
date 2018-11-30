@@ -4,7 +4,7 @@
 2. Unpack the downloaded file.
 3. Go to the directory where you unpacked the file (fuseki directory). 
 4. In command line, run 'chmod +x fuseki-server'.
-5. In command line, run './fuseki-server --update --mem /ds' to start the server.
+5. In command line, run './fuseki-server --update --file <path_to_owl_file> /ds' to start the server.
 
 *** UPLOAD ONTOLOGY ***
 1. In a browser, go to http://localhost:3030/
