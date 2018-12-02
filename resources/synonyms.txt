@@ -2038,3 +2038,496 @@ SCKL6
 SCKL1
 microcephalic primordial dwarfism I
 SCKL10
+SCKL8
+SCKL4
+SCKL7
+SCKL5
+SCKL2
+Seckel-type dwarfism 2
+microcephalic primordial dwarfism 2
+DKCA1
+Dyskeratosis Congenita, Scoggins Type
+DKCB1
+DKCA2
+DKCB2
+DKCA3
+DKCB3
+DKCA4
+DKCB4
+DKCB5
+DKCA6
+DKCB6
+DKCX
+Zinsser-Cole-Engman syndrome
+DKCA5
+Dyskeratosis Congenita, Autosomal Dominant 5
+exudative retinopathy with bone marrow failure
+Amyloidosis VI
+Amyloidosis, Cerebroarterial, Icelandic Type
+Cerebral Hemorrhage, Hereditary, with Amyloidosis
+HCHWA
+Hereditary Cerebral Hemorrhage with Amyloidosis
+Amyloidosis, Cerebroarterial, App-Related
+Amyloidosis, Hereditary, With Cerebral Hemorrhage, Dutch Variant
+Cerebral Amyloid Angiopathy, App-Related, Arctic Variant
+Cerebral Amyloid Angiopathy, App-Related, Dutch Variant
+Cerebral Amyloid Angiopathy, App-Related, Flemish Variant
+Cerebral Amyloid Angiopathy, App-Related, Iowa Variant
+Cerebral Amyloid Angiopathy, App-Related, Italian Variant
+HCHWAD
+Cerebral Amyloid Angiopathy, British Type
+FBD
+Familial British Dementia
+Presenile Dementia with Spastic Ataxia
+Cerebellar Ataxia, Cataract, Deafness, and Dementia Or Psychosis
+FDD
+Familial Danish Dementia
+HOOE
+Heredopathia Ophthalmootoencephalica
+MRD1
+autosomal dominant mental retardation 1
+MRD2
+autosomal dominant mental retardation 2
+MRD3
+autosomal dominant mental retardation 3
+MRD4
+autosomal dominant mental retardation 4
+MRD5
+autosomal dominant mental retardation 5
+MRD6
+autosomal dominant mental retardation 6
+MRD7
+autosomal dominant mental retardation 7
+MRD8
+autosomal dominant mental retardation 8
+MRD9
+autosomal dominant mental retardation 9
+MRD10
+autosomal dominant mental retardation 10
+MRD11
+autosomal dominant mental retardation 11
+CSS1
+MRD12
+autosomal dominant mental retardation 12
+fifth digit syndrome
+MRD13
+autosomal dominant mental retardation 13
+mental retardation, autosomal dominant 13, with neuronal migration defects
+CSS2
+MRD14
+autosomal dominant mental retardation 14
+CSS3
+MRD15
+autosomal dominant mental retardation 15
+CSS4
+MRD16
+autosomal dominant mental retardation 16
+MRD17
+SHMS
+autosomal dominant mental retardation 17
+MRD18
+autosomal dominant mental retardation 18
+MRD19
+autosomal dominant mental retardation 19
+MRD20
+mental retardation, autosomal dominant 20
+MRD21
+autosomal dominant mental retardation 21
+MRD22
+autosomal dominant mental retardation 22
+MRD23
+autosomal dominant mental retardation 23
+MRD24
+autosomal dominant mental retardation 24
+MRD25
+autosomal dominant mental retardation 25
+MRD26
+autosomal dominant mental retardation 26
+MRD27
+autosomal dominant mental retardation 27
+HVDAS
+MRD28
+autosomal dominant mental retardation 28
+MRD29
+autosomal dominant mental retardation 29
+MRD30
+autosomal dominant mental retardation 30
+MRD31
+autosomal dominant mental retardation 31
+MRD32
+autosomal dominant mental retardation 32
+MRD33
+autosomal dominant mental retardation 33
+MRD34
+autosomal dominant mental retardation 34
+MRD35
+autosomal dominant mental retardation 35
+MRD36
+autosomal dominant mental retardation 36
+MRD37
+WHSUS
+autosomal dominant mental retardation 37
+MRD38
+PRELDS
+autosomal dominant mental retardation 38
+psychomotor retardation, epilepsy, and language disability syndrome
+MRD39
+autosomal dominant mental retardation 39
+MRD40
+autosomal dominant mental retardation 40
+MRD41
+autosomal dominant mental retardation 41
+MRD42
+autosomal dominant mental retardation 42
+MRD43
+autosomal dominant mental retardation 43
+MRD44
+autosomal dominant mental retardation 44
+chromosome 17q21.31 deletion syndrome
+microdeletion 17q21.31 syndrome
+SCZD1
+SCZD2
+SCZD3
+SCZD4
+SCZD5
+SCZD6
+SCZD7
+SCZD8
+SCZD9
+SCZD10
+SCZD11
+SCZD12
+SCZD13
+SCZD14
+SCZD15
+SCZD16
+Chromosome 7q36.3 Duplication Syndrome, 362-Kb
+SCZD18
+OCA1A
+Oculocutaneous Albinism, Tyrosinase-Negative
+Albinism, Yellow Mutant Type
+OCA1B
+OCA2
+Oculocutaneous Albinism, Tyrosinase-Positive
+OCA3
+Rufous Oculocutaneous Albinism
+OCA4
+OCA5
+OCA7
+NPC1
+NPC2
+MKS1
+Meckel-Gruber syndrome, type 1
+MKS2
+Meckel-Gruber syndrome, type 2
+MKS3
+Meckel-Gruber syndrome, type 3
+MKS4
+Meckel-Gruber syndrome, type 4
+MKS5
+Meckel-Gruber syndrome, type 5
+MKS6
+Meckel-Gruber syndrome, type 6
+MKS7
+Meckel-Gruber syndrome, type 7
+MKS8
+Meckel-Gruber syndrome, type 8
+CHNG4
+isolated thyrotropin deficiency
+CHNG2
+congenital hypothyroidism due to thyroid dysgenesis or hypoplasia
+CHNG5
+CHNG1
+TSH resistance
+CHNG3
+CHNG6
+ARCL2D
+ADCL1
+ADCL3
+ARCL3A
+De Barsy syndrome A
+ARCL1B
+ARCL2A
+ARCL1A
+ADCL2
+ARCL2, progeroid type
+ARCL2B
+ARCL3B
+De Barsy syndrome B
+ARCL1C
+autosomal recessive cutis laxa type 1C
+ARCL2, Debre type
+ARCL2, classic type
+ADCL
+De Barsy syndrome
+cutis laxa-corneal clouding-intellectual disability syndrome
+autosomal recessive cutis laxa type 1
+HSAN5
+hereditary sensory and autonomic neuropathy type V
+hereditary sensory neuropathy type IV
+insensitivity to pain, congenital, with anhidrosis
+HSN2C
+hereditary sensory neuropathy type IIC
+HSAN with cough and gastroesophageal reflux
+hereditary sensory neuropathy type IB
+HSAN7
+hereditary sensory and autonomic neuropathy type VII
+HSAN2B
+hereditary sensory and autonomic neuropathy type IIB
+HSAN6
+hereditary sensory and autonomic neuropathy type VI
+HSAN1A
+hereditary sensory and autonomic neuropathy type IA
+HSAN8
+hereditary sensory and autonomic neuropathy type VIII
+HSN1F
+hereditary sensory neuropathy type IF
+HSAN2A
+hereditary sensory and autonomic neuropathy type IIA
+HSN1D
+HSAN1C
+hereditary sensory and autonomic neuropathy type IC
+HSN1E
+hereditary sensory neuropathy type IE
+HSAN2
+hereditary sensory and autonomic neuropathy type II
+HSAN1
+hereditary sensory and autonomic neuropathy type I
+SPGF21
+SPGF2
+SPGF18
+SPGF20
+SPGF6
+SPGF3
+SPGF8
+SPGF19
+SPGF12
+SPGF15
+SPGF7
+Male infertility due to oocyte activation failure
+SPGF17
+SPGF9
+SPGF4
+SPGF22
+SPGF10
+Spermatogenic failure with defective sperm annulus
+SPGF14
+SPGF11
+SPGF23
+SPGF13
+SPGF5
+infertility associated with multitailed spermatozoa and excessive DNA
+macrocephalic sperm head syndrome
+male infertility due to macrozoospermia
+male infertility with large-headed, multiflagellar, polyploid spermatozoa
+SPGF16
+acephalic spermatozoa syndrome
+SPGFX2
+SPGFY1
+Y-linked Sertoli cell-only syndrome
+type I Sertoli cell-only syndrome
+SPGFY2
+nonobstructive Y-linked spermatogenic failure
+SPGF1
+oligochiasmatic infertility
+oligosynaptic infertility
+SPGFX1
+CDG2
+chronic granulomatous disease due to deficiency of NCF-2
+deficiency of NCF2
+deficiency of p67-PHOX
+CDG1
+chronic granulomatous disease due to deficiency of NCF-1
+deficiency of NCF1
+deficiency of SOC2
+deficiency of neutrophil cytosol factor 1
+deficiency of p47-PHOX
+deficiency of soluble oxidase component II
+CGD due to deficiency of the alpha subunit of cytochrome b
+CYBA deficiency
+autosomal recessive cytochrome b-negative CGD
+chronic granulomatous disease due to deficiency of CYBA
+CDG3
+autosomal recessive cytochrome b-positive CGD type III
+chronic granulomatous disease due to NCF4 deficiency
+CDGX
+X-linked chronic cytochrome b-negative granulomatous disease
+Distal myopathy type 1
+Gowers disease
+Laing distal myopathy
+Laing early-onset distal myopathy
+MPD1
+Miyoshi myopathy
+Miyoshi muscular dystrophy
+MMD1
+Miyoshi myopathy 1
+MMD2
+Miyoshi myopathy 2
+MMD3
+Miyoshi myopathy 3
+FPLD2
+familial lipodystrophy of limbs and lower trunk
+familial partial lipodystrophy Dunnigan type
+lipoatrophic diabetes
+lipoatrophic diabetes
+reverse partial lipodystrophy
+CIDEC-related FPLD
+FPLD5
+familial partial lipodystrophy associated with CIDEC mutations
+FPLD3
+PPARG-related FPLD
+PPARG-related familial partial lipodystrophy
+familial partial lipodystrophy associated with PPARG mutations
+FPLD4
+PLIN1-related FPLD
+PLIN1-related familial partial lipodystrophy
+familial partial lipodystrophy associated with PLIN1 mutations
+FPLD6
+LIPE-related FPLD
+LIPE-related familial partial lipodystrophy
+familial partial lipodystrophy associated with LIPE mutations
+FPLD1
+familial partial lipodystrophy Kobberling type
+LMPH1C
+LMPH1D
+LMPH1A
+LMPH1B
+LMPH1
+Milroy disease
+PCL
+congenital primary lymphedema
+hereditary lymphedema type I
+LMPH2
+Meige disease
+Meige lymphedema
+late-onset lymphedema
+lymphedema preacox
+EIHI
+HHF7
+exercise-induced hyperinsulinemic hypoglycemia
+exercise-induced hyperinsulinism
+hyperinsulinism due to SLC16A1 deficiency
+hyperinsulinism due to monocarboxylate transporter 1 deficiency
+HHF4
+hyperinsulinemic hypoglycemia due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency
+hyperinsulinism due to SCHAD deficiency
+hyperinsulinism due to glutamodehydrogenase deficiency
+hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency
+HHF3
+hyperinsulinemic hypoglycemia due to glucokinase deficiency
+hyperinsulinism due to glucokinase deficiency
+HHF6
+HI/HA syndrome
+hyperinsulinism-hyperammonemia syndrome
+Autosomal recessive hyperinsulinemic hypoglycemia due to Kir6.2 deficiency
+HHF2
+hyperinsulinemic hypoglycemia due to focal adenomatous hyperplasia
+HHF1
+HHF5
+hyperinsulinemic hypoglycemia due to INSR deficiency
+hyperinsulinemic hypoglycemia due to insulin receptor deficiency
+hyperinsulinism due to INSR deficiency
+PFIC; Byler disease
+BSEP deficiency
+PFIC2
+MDR3 deficiency
+PFIC3
+progressive familial intrahepatic cholestasis with elevated serum gama-glutamyltransferase
+PFIC4
+TJP2 deficit
+NR1H4 deficiency
+PFIC5
+FIC1 deficiency
+PFIC1
+ICP
+gravidic intrahepatic cholestasis
+pregnancy related cholestasis
+recurrent intrahepatic cholestasis of pregnancy
+intrahepatic cholestasis of pregnancy
+ICP1
+pregnancy related cholestasis 1
+ICP3
+pregnancy related cholestasis 3
+BRIC
+Summerskill-Walshe-Tygstrup syndrome
+BRIC type 1
+BRIC1
+Summerskill syndrome
+BRIC type 2
+BRIC2
+Aneurysm, aortic and cerebral, with arterial tortuosity and skeletal manifestations
+LDS4
+AAT3
+LDS2
+Marfan syndrome type II
+familial throacic aortic aneurysm 3
+AAT5
+Furlong syndrome
+LDS1
+familial throacic aortic aneurysm 5
+LDS5
+RNHF
+Reinhoff syndrome
+LDS1C
+LDS3
+Loeys-Dietz syndrome type 1C
+Loeys-Dietz syndrome with osteoarthritis
+aneurysms-osteoarthritis syndrome
+COQ10D1
+CoQ deficiency 1
+CoQ10 deficiency, primary, 1
+coenzyme Q deficiency 1
+ubiquinone deficiency 1
+COQ10D2
+coenzyme Q10 deficiency, primary, 2
+COQ10D3
+coenzyme Q10 deficiency, primary, 3
+COQ10D4
+SCAR9
+coenzyme Q10 deficiency, primary, 4
+spinocerebellar ataxia, autosomal recessive 9
+COQ10D5
+coenzyme Q10 deficiency, primary, 5
+COQ10D6
+coenzyme Q10 deficiency, primary, 6
+COQ10D7
+coenzyme Q10 deficiency, primary, 7
+COQ10D8
+coenzyme Q10 deficiency, primary, 8
+EDMD1
+EMD1
+Emery-Dreifuss muscular dystrophy 1, X-linked
+humeroperoneal neuromuscular disease
+muscular dystrophy, tardive, Dreifuss-Emery type, with contractures
+scapuloperoneal syndrome, X-linked
+EDMD2
+EMD2
+Emery-Dreifuss muscular dystrophy 2, autosomal dominant
+Emery-Dreifuss muscular dystrophy, autosomal dominant
+Hauptmann-Thannhauser muscular dystrophy
+muscular dystrophy with early contractures and cardiomyopathy, autosomal dominant
+scapuloilioperoneal atrophy with cardiopathy
+EDMD3
+Emery-Dreifuss muscular dystrophy 3, autosomal recessive
+EDMD4
+Emery-Dreifuss muscular dystrophy 4 with variable features
+Emery-Dreifuss muscular dystrophy 4, autosomal dominant
+EDMD5
+Emery-Dreifuss muscular dystrophy 5, autosomal dominant
+EDMD6
+Emery-Dreifuss muscular dystrophy 6, X-linked
+XMPMA
+myopathy, X-linked, with postural muscle atrophy
+EDMD7
+Emery-Dreifuss muscular dystrophy 7, autosomal dominant
+Alkuraya syndrome
+CDG IIa
+CDG2A
+CDGIIa
+CDGS2
+carbohydrate-deficient glycoprotein syndrome, type II
+congenital disorder of glycosylation, type IIa
+mental retardation, growth retardation, prominent columella, and open mouth
+CDG IIb
+CDG2B
+CDGIIb

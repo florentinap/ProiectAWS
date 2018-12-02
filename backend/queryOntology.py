@@ -1,7 +1,7 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 
 
-def getSynonymColumn(sparql):
+def getSynonymColumn(sparql=SPARQLWrapper("http://localhost:3030/doid/query")):
 	query = """
 	SELECT DISTINCT ?uri ?hasExactSynonym {
 		?uri <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> ?hasExactSynonym
@@ -18,7 +18,7 @@ def getSynonymColumn(sparql):
 
 	return synonymResults
 
-def getTranslatedLabels(sparql):
+def getTranslatedLabels(sparql=SPARQLWrapper("http://localhost:3030/doid/query")):
 	query = """
 	SELECT DISTINCT ?uri ?hasExactSynonym ?label {
 		?uri <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> ?hasExactSynonym .
@@ -37,7 +37,7 @@ def getTranslatedLabels(sparql):
 
 	return translatedResults
 
-def getAllergy(sparql):
+def getAllergy(sparql=SPARQLWrapper("http://localhost:3030/doid/query")):
 	# query = """
 	# SELECT  ?uri ?name ?allergy
 	# WHERE {
