@@ -18,7 +18,24 @@ def translatedLabels():
 
 @app.route("/allAllergies")
 def allergyList():
-    result = getAllergy()
+    result = getAllAllergies()
+    return jsonify(result)
+
+@app.route("/allMedicines")
+def medicineList():
+    result = getAllMedicines()
+    return jsonify(result)
+
+@app.route("/allergyByMedicine", methods = ['POST', 'GET'])
+def allergyByMedicine():
+	medicine = = request.json['medicineName']
+    result = getAllergyByMedicine()
+    return jsonify(result)
+
+@app.route("/medicineByAllergy", methods = ['POST', 'GET'])
+def medicineByAllergy():
+	medicine = = request.json['allergyName']
+    result = getMedicineByAllergy()
     return jsonify(result)
 
 if __name__ == "__main__":

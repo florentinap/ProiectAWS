@@ -10,12 +10,13 @@
 1. In a browser, go to http://localhost:3030/
 2. Click the dataset button from header.
 3. Click upload files button.
-3. Select the ontology (.owl file).
+3. Select the ontology (.owl files).
 
 
 ===================== Ontology =============================
 *** DOWNLOAD ***
-1. You can download it from http://www.ontobee.org/ontology/DOID or run 'wget https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.owl' in command line 
+1. Download allegy ontology from http://www.ontobee.org/ontology/DOID or run 'wget https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.owl' in command line 
+2. Download medicine ontology from ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/ or run 'wget ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi_lite.owl'
 
 
 ===================== Google Translate API =================
@@ -23,3 +24,29 @@
 1. Download Google Translate 'git clone https://github.com/BoseCorp/py-googletrans.git'.
 2. Go to Google directory 'cd ./py-googletrans'.
 3. In command line, run 'python setup.py install'.
+
+
+=== All allergies ===
+* request: http://127.0.0.1:5000/allAllergies
+* response: 
+{result: [allergy1, allergy2]}
+
+=== All medicines ===
+* request: http://127.0.0.1:5000/allMedicines
+* response:
+{result: [medicine1, medicine2]}
+
+=== Medicine by allergy ===
+* request: http://127.0.0.1:5000/
+
+=== Allergy by medicine ===
+* request: http://127.0.0.1:5000/allergyByMedicine
+* param: medicineName
+* response:
+{medicineName: [allergy1, allergy2]}
+
+=== Medicine by allergy === 
+* request: http://127.0.0.1:5000/medicineByAllergy
+* param: allergyName
+* response:
+{allergyName: [medicine1, medicine2]}
